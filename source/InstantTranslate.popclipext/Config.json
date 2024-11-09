@@ -3,7 +3,7 @@
   "popclip version": 3844,
   "name": "Instant Translate",
   "icon": "itrans.png",
-  "regex": "(?s)^.{1,200}$",
+  "regex": "(?s)^.{1,20000}$",
   "module": "itrans.js",
   "entitlements": [
     "network"
